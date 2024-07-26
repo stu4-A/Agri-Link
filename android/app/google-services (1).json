@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "764822636663",
+    "project_id": "agriclink-64a6c",
+    "storage_bucket": "agriclink-64a6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764822636663:android:f561188fed9c5057ad9e72",
+        "android_client_info": {
+          "package_name": "com.example.agricplant.agriplant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrVgI2_IMln3zpHD-VIrFZICMKzRauJI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
