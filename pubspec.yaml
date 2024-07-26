@@ -1,0 +1,52 @@
+name: agriclink
+description: Agriculture sales app
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ">=3.0.5 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_iconly: ^1.0.2
+  google_fonts: ^5.1.0
+  badges: ^3.1.1
+  timelines: ^0.1.0
+  easy_stepper: ^0.7.3
+  firebase_core: ^3.1.1
+  firebase_auth: ^5.1.1
+  firebase_storage: ^12.1.0
+  cupertino_icons: ^1.0.2
+  fl_country_code_picker: ^0.1.5
+  flutter_rating_bar: ^4.0.1
+  get: ^4.6.5
+  http: ^1.1.0
+  shared_preferences: ^2.2.0
+  intl: ^0.18.1
+  flutter_timezone: ^1.0.6
+  flutter_easyloading: ^3.0.5
+  cached_network_image: ^3.2.3
+  cloud_firestore: ^5.0.2
+  image_picker: ^1.1.2
+  file_picker: ^7.0.1
+  provider: ^6.1.2
+  url_launcher: ^6.3.0
+  flutter_osm_plugin: ^0.60.4
+  firebase_messaging: ^15.0.3
+  flutter_local_notifications: ^17.2.1+2
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.2
+  build_runner: ^2.4.9
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/services/
+    - shorebird.yaml
